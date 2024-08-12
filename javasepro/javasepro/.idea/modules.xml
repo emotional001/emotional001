@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/helloworld-app/helloworld-app.iml" filepath="$PROJECT_DIR$/helloworld-app/helloworld-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../homework/homework/homework.iml" filepath="$PROJECT_DIR$/../homework/homework/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/../method-app/method-app.iml" filepath="$PROJECT_DIR$/../method-app/method-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop/oop.iml" filepath="$PROJECT_DIR$/../oop/oop.iml" />
     </modules>
   </component>
 </project>
